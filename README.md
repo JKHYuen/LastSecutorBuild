@@ -1,7 +1,8 @@
-# *Last Secutor* (Unfinished 2D Turn Based RPG) - Tech Demo
-*Uploaded for my game development portfolio, see https://jkhyuen.github.io/last-secutor for full details.*
-
 ![last-secutor](https://github.com/JKHYuen/LastSecutorBuild/assets/53157428/2eb9e8d6-0fd0-4f9e-8589-0ca0a219762a)
+
+# *Last Secutor* (Unfinished 2D Turn Based RPG) - Tech Demo
+*Uploaded for my game development portfolio, see https://jkhyuen.github.io/last-secutor for full details.*\
+***Windows 64-bit required** 
 
 These demos are intended to provide interactive examples of all the technical and gameplay features mentioned in the portfolio page. Most of the game content (audio, visuals) is placeholder.
 
@@ -31,23 +32,22 @@ Note:
  - AI actions UI only works for the right side (some AIs don't use the action system regardless, see portfolio page for full details)
 
 ## Controls
-```~```     Toggle console (enter "h" to view all commands)\
-```X```     Open right side menu (inventory, skill tree, quest journal)\
-```Esc```   Open game menu\
-```F5```    Save (Serialize items, skill trees, and skills)\
-```F6```    Load (Reload current scene with first user save found)\
+       ~:  Toggle console (enter "h" to view all commands)
+       X:  Open right side menu (inventory, skill tree, quest journal)
+     Esc:  Open game menu
+      F5:  Save (Serialize items, skill trees, and skills)
+      F6:  Load (Reload current scene with first user save found)
 
-```B```     Open battle log (combat only)\
-```P```     View enemy stats (combat only)\
-```0 - 9``` Shortcut keys for skill bar\
-```PgUp```  Speed up time scale\
-```PgDn```  Slow down time scale\
-```End```   Set time scale to 0\
-```Home```  Set time scale to 1
+       B:  Open battle log (combat only)
+       P:  View enemy stats (combat only)
+     0-9:  Shortcut keys for skill bar
+    PgUp:  Speed up time scale
+    PgDn:  Slow down time scale
+     End:  Set time scale to 0
+    Home:  Set time scale to 1
 
 ## Persistent Data Note:
-Unity log files are created when the game boots up, user save data is also created if ```F5``` is pressed. These files are small (~15KB), but the location (Windows) is the following you wish to delete these files:
+Unity log files are created when the game boots up, user save data is also created if ```F5``` is pressed. These files are small (~15KB), but the location is the following you wish to delete these files:
 
 *C:\Users\<user>\AppData\LocalLow\KHY\Last Secutor*\
 *C:\Users\<user>\AppData\LocalLow\KHY\Last Secutor (AI DEMO)*\
-See [here](https://docs.unity3d.com/ScriptReference/Application-persistentDataPath.html) for other operating systems.
