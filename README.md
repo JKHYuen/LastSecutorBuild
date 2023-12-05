@@ -38,8 +38,8 @@ Note:
 ```B```     Open battle log (combat only)\
 ```P```     View enemy stats (combat only)\
 ```0 - 9``` Shortcut keys for skill bar\
-```PgUp```  Speed up timescale\
-```PgDn```  Slow down timescale\
+```PgUp```  Speed up time scale\
+```PgDn```  Slow down time scale\
 ```End```   Set time scale to 0\
 ```Home```  Set time scale to 1
 
