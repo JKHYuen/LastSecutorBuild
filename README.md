@@ -1,9 +1,8 @@
-# *Last Secutor* (Cancelled 2D Turn Based RPG) - Tech Demo
+# *Last Secutor* (Unfinished 2D Turn Based RPG) - Tech Demo
 *Uplaoded for my game development portfolio, see https://jkhyuen.github.io/last-secutor for full details.*
 
 These demos are intended to provide interactive examples of all the technical and gameplay features mentioned in the portfolio page. Most of the game content (audio, visuals) is placeholder and there may be bugs.
 
-## There are *two* seperate builds:
 ### 1. **Main Tech Demo**:
 *Last Secutor Tech Demo\Last Secutor.exe*
 
