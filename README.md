@@ -3,7 +3,7 @@
 
 These demos are intended to provide interactive examples of all the technical and gameplay features mentioned in the portfolio page. Most of the game content (audio, visuals) is placeholder and there may be bugs.
 
-### 1. **Main Tech Demo**:
+## 1. **Main Tech Demo**:
 *Last Secutor Tech Demo\Last Secutor.exe*
 
 Fully playable vertical slice of the game. To start combat from town, click the colosseum in the background. Click start in the popup menu without selecting any quest fights to start combat with a random AI. 
@@ -18,7 +18,7 @@ Note the following caveats:
  - Number values (e.g. damage, health) are unfinished. Combat is not balanced.
  - skills and equipment are not saved when entering combat scene, unless ```F5``` is pressed in town and ```F6``` is pressed in combat.
 
-### 2. **AI vs AI Battle Demo**: 
+## 2. **AI vs AI Battle Demo**: 
 *Last Secutor AI vs AI\Last Secutor (AI DEMO).exe*
 
 This build loads directly into a combat scene with two AIs fighting. No player input is required. Press ```F6``` to load new random AIs. 
@@ -28,7 +28,7 @@ Note:
  - the game was not designed to have AI fights, this was added only for debugging purposes
  - AI actions UI only works for the right side (some AIs don't use the action system regardless, see portfolio page for full details)
 
-### Controls
+## Controls
 ```~```     Toggle console (enter "h" to view all commands)\
 ```X```     Open right side menu (inventory, skill tree, quest journal)\
 ```Esc```   Open game menu\
