@@ -16,14 +16,15 @@ Pick one of the two builds and launch the exe listed below.
 Fully playable vertical slice of the game. To start combat from town, click the colosseum in the background. Click start in the popup menu without selecting any quest fights to start combat with a random AI. 
 
 Notable features:
- - All working skills available by default, right click bottom skill bar to assign skills.
- - Get items from the two alien characters on the left to try inventory system (all items are free)
+ - All working skills available by default, right click bottom skill bar to assign skills. You can change skills in combat, this would not be possible in real gameplay.
+ - Get items from the two alien characters on the left to try the inventory system (all items are free)
  - Open skill tree window by pressing ```X```, then pressing "Skill Tree" tab. Right click on the grey squares to pick a skill tree. Enter "sp" in console to get skillpoints.
+ - Press the "help" button on the bottom bar for a simple, searchable game encyclopedia.
 
 Note:
  - skill costs and cooldowns are disabled by default. Enter "f" in console to toggle costs. Most skills do not have a asigned skill cost.
- - Number values (e.g. damage, health) are unfinished. Combat is not balanced.
  - skills and equipment are not saved when entering combat scene, unless ```F5``` is pressed in town and ```F6``` is pressed in combat.
+ - Number values (e.g. damage, health) are unfinished. Combat is not balanced.
 
 ## 2. **AI vs AI Battle Demo**: 
 *Last Secutor AI vs AI\Last Secutor (AI DEMO).exe*
@@ -54,4 +55,4 @@ Note:
 Unity log files are created when the game boots up, user save data is also created if ```F5``` is pressed. These files are small (~15KB), but the location is the following you wish to delete these files:
 
 *C:\Users\<user>\AppData\LocalLow\KHY\Last Secutor*\
-*C:\Users\<user>\AppData\LocalLow\KHY\Last Secutor (AI DEMO)*\
+*C:\Users\<user>\AppData\LocalLow\KHY\Last Secutor (AI DEMO)*
