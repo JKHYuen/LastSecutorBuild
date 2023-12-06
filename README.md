@@ -8,7 +8,7 @@
 *Last Secutor* is an unfinished 2D turn based RPG with ARPG inspired mechanics such as an original skill tree system, expansive loot, and complex character progression. These demos are intended to provide interactive examples of all the technical and gameplay features mentioned in the portfolio page. Most of the game content (audio, visuals) is placeholder.
 
 ## To Start:
-Pick one of the two builds and launch the exe listed below.
+Pick one of the two builds and launch the corresponding exe listed below.
 
 ## 1. **Main Tech Demo**:
 *Last Secutor Tech Demo\Last Secutor.exe*
