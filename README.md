@@ -17,9 +17,9 @@ Fully playable vertical slice of the game. To start combat from town, click the 
 
 Notable features:
  - All working skills available by default, right click bottom skill bar to assign skills. You can change skills in combat, this would not be possible in real gameplay.
- - Get items from the two alien characters on the left to try the inventory system (all items are free)
- - Open skill tree window by pressing ```X```, then pressing "Skill Tree" tab. Right click on the grey squares to pick a skill tree. Enter "sp" in console to get skillpoints.
- - Press the "help" button on the bottom bar for a simple, searchable game encyclopedia.
+ - Get items from the two alien characters on the left in town to try the inventory system (all items are free)
+ - Open the skill tree window by pressing ```X```, then pressing the "Skill Tree" tab. Right click on the grey squares to pick a skill tree. Enter "sp" in console to get skillpoints.
+ - Press the "Help" button on the bottom bar for a simple, searchable game encyclopedia.
 
 Note:
  - skill costs and cooldowns are disabled by default. Enter "f" in console to toggle costs. Most skills do not have a asigned skill cost.
