@@ -1,10 +1,14 @@
-![last-secutor](https://github.com/JKHYuen/LastSecutorBuild/assets/53157428/2eb9e8d6-0fd0-4f9e-8589-0ca0a219762a)
+# *Last Secutor* - Tech Demo
+*Uploaded for my game development portfolio, see https://jkhyuen.github.io/last-secutor for full details.*
 
-# *Last Secutor* (Unfinished 2D Turn Based RPG) - Tech Demo
-*Uploaded for my game development portfolio, see https://jkhyuen.github.io/last-secutor for full details.*\
 ***Windows 64-bit required** 
 
-These demos are intended to provide interactive examples of all the technical and gameplay features mentioned in the portfolio page. Most of the game content (audio, visuals) is placeholder.
+![last-secutor](https://github.com/JKHYuen/LastSecutorBuild/assets/53157428/2eb9e8d6-0fd0-4f9e-8589-0ca0a219762a)
+
+*Last Secutor* is an unfinished 2D turn based RPG with ARPG inspired mechanics such as an original skill tree system, expansive loot, and complex character progression. These demos are intended to provide interactive examples of all the technical and gameplay features mentioned in the portfolio page. Most of the game content (audio, visuals) is placeholder.
+
+## To Start:
+Pick one of the two builds and launch the exe listed below.
 
 ## 1. **Main Tech Demo**:
 *Last Secutor Tech Demo\Last Secutor.exe*
@@ -16,7 +20,7 @@ Notable features:
  - Get items from the two alien characters on the left to try inventory system (all items are free)
  - Open skill tree window by pressing ```X```, then pressing "Skill Tree" tab. Right click on the grey squares to pick a skill tree. Enter "sp" in console to get skillpoints.
 
-Note the following caveats:
+Note:
  - skill costs and cooldowns are disabled by default. Enter "f" in console to toggle costs. Most skills do not have a asigned skill cost.
  - Number values (e.g. damage, health) are unfinished. Combat is not balanced.
  - skills and equipment are not saved when entering combat scene, unless ```F5``` is pressed in town and ```F6``` is pressed in combat.
@@ -24,12 +28,12 @@ Note the following caveats:
 ## 2. **AI vs AI Battle Demo**: 
 *Last Secutor AI vs AI\Last Secutor (AI DEMO).exe*
 
-This build loads directly into a combat scene with two AIs fighting. No player input is required. Press ```F6``` to load new random AIs. 
+This build loads directly into a combat scene with two AIs fighting. No user input is required. This demo is designed to quickly show different AI behaviours and combat interactions.  Press ```F6``` to load new random AIs. 
 
 Note:
- - Console commands and time scale control (see below) works
+ - Console commands and time scale control (see below) can still be used
  - the game was not designed to have AI fights, this was added only for debugging purposes
- - AI actions UI only works for the right side (some AIs don't use the action system regardless, see portfolio page for full details)
+ - AI actions UI only works for the right side (some AIs don't use the action system regardless, see "AI Combat" section on portfolio page for full details)
 
 ## Controls
        ~:  Toggle console (enter "h" to view all commands)
