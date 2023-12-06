@@ -1,4 +1,4 @@
-# *Last Secutor* - Tech Demo
+# *Last Secutor* Tech Demo (2014 — 2022)
 *Uploaded for my game development portfolio, see https://jkhyuen.github.io/last-secutor for full details.*
 
 ***Windows 64-bit required** 
